@@ -1,3 +1,4 @@
 # Cloud-Architecture-Design
 <BR>
-![Copy of Edited Topology 1](https://github.com/Digi-Guard/Cloud-Architecture-Design/assets/130434160/4b7acc58-bbca-42e0-bccc-192f41846c99) 
+
+![Edited Topology drawio](https://github.com/Digi-Guard/Cloud-Architecture-Design/assets/130434160/e981f46b-6b62-43f6-b572-84d45c5f78b1)
