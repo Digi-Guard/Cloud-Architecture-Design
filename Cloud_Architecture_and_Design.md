@@ -1,10 +1,9 @@
-# AWS Network Architecture Diagram
+# AWS Network Architecture Design
 
 ## AWS Account Setup
-- IAM Users: User1, User2
+- IAM Users:
   - Permissions:
-    - User1: Limited access to specific resources
-    - User2: Limited access to specific resources
+    - Role Based Access
 - IAM User Groups: AdminGroup, DevGroup
   - Permissions:
     - AdminGroup: Full administrative access
