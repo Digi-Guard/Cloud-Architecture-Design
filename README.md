@@ -1,4 +1,8 @@
 # Cloud-Architecture-Design
+This repo contains the written design for our project AWS Cloud Architecture as well as a toplogy of the VPC setup and flowchart for the logs and alarm alert messaging service.
 <BR>
 
-![Edited Topology drawio](https://github.com/Digi-Guard/Cloud-Architecture-Design/assets/130434160/e981f46b-6b62-43f6-b572-84d45c5f78b1)
+## Links to Resources
+[Cloud Architecture Design]()
+[Network Topology]()
+[Log and Alert Flow Chart]()
