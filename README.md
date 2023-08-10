@@ -3,6 +3,6 @@ This repo contains the written design for our project AWS Cloud Architecture as 
 <BR>
 
 ## Links to Resources
-[Cloud Architecture Design]()
+[Cloud Architecture Design](https://github.com/Digi-Guard/Cloud-Architecture-Design/blob/main/Cloud_Architecture_and_Design.md)
 [Network Topology]()
-[Log and Alert Flow Chart]()
+[Log and Alert Flow Chart](https://github.com/Digi-Guard/Cloud-Architecture-Design/blob/main/Alert-Message-Flow.png)
